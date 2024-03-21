@@ -1,0 +1,26 @@
+.input-position-top {
+    top: -12%;
+    left: 0%;
+}
+
+.video-card {
+    width: 70%;
+}
+
+.video-placeholder {
+    width: 100%;
+    object-fit: contain;
+}
+
+.video-frame {
+    width: 100%;
+}
+
+.video-loader {
+    height: 100%;
+    width: 100%;
+}
+
+.horizontal-slider {
+    width: 100%;
+}

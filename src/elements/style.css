@@ -1,0 +1,22 @@
+.macbookContainer {
+    background-image: url("../assets/Macbook.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.custom-container {
+    height: 48%;
+    width: 52%;
+    background-color: #fff;
+    bottom: 37%;
+    left: 25%;
+}
+
+.custom-modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
